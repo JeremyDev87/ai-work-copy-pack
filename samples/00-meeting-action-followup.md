@@ -59,4 +59,4 @@
 - 회사 기밀·개인정보가 남아 있지 않은가?
 - 메일 수신자가 해야 할 일이 한눈에 보이는가?
 
-전체 보고서·주간보고·PPT 워크플로우까지 필요하면 [전체 팩 ₩9,000](https://buy.polar.sh/polar_cl_K6JFrVzqv84YUcbxax37AT4Td5YGmU14nRK5y08QwJb)을 확인하세요.
+전체 보고서·주간보고·PPT 워크플로우까지 필요하면 [전체 팩 ₩9,000](https://buy.polar.sh/polar_cl_SO4LsI08xhPfVAZPTOYIbkQ3BlQBgJHfGum5N0bf0LY)을 확인하세요.

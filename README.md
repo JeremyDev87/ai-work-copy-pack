@@ -4,7 +4,7 @@
 
 - **무료 샘플:** [회의 메모 → 액션아이템 + 팔로업 메일](samples/00-meeting-action-followup.md)
 - **웹에서 보기:** https://jeremydev87.github.io/ai-work-copy-pack/
-- **전체 팩:** [₩9,000에 받기](https://buy.polar.sh/polar_cl_K6JFrVzqv84YUcbxax37AT4Td5YGmU14nRK5y08QwJb)
+- **전체 팩:** [₩9,000에 받기](https://buy.polar.sh/polar_cl_SO4LsI08xhPfVAZPTOYIbkQ3BlQBgJHfGum5N0bf0LY)
 
 ## 포함 범위
 
@@ -25,4 +25,4 @@
 
 ## 상품 링크
 
-[직장인 AI 업무 복붙팩 v1 — ₩9,000](https://buy.polar.sh/polar_cl_K6JFrVzqv84YUcbxax37AT4Td5YGmU14nRK5y08QwJb)
+[직장인 AI 업무 복붙팩 v1 — ₩9,000](https://buy.polar.sh/polar_cl_SO4LsI08xhPfVAZPTOYIbkQ3BlQBgJHfGum5N0bf0LY)
