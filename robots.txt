@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jeremydev87.github.io/ai-work-copy-pack/sitemap.xml
