@@ -22,6 +22,7 @@
 <!-- campaign-index:start -->
 - Day 0 — [회의 메모를 액션아이템과 팔로업 메일로 바꾸기](samples/00-meeting-action-followup.md)
 - Day 1 — [주간보고를 완료·진행·다음 주·리스크로 나누기](samples/01-weekly-report.md)
+- Day 2 — [문제 보고를 비난 없이 선택지 중심으로 바꾸기](samples/02-issue-escalation.md)
 <!-- campaign-index:end -->
 
 ## 상품 링크
