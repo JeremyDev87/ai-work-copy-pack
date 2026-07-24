@@ -25,6 +25,7 @@
 - Day 2 — [문제 보고를 비난 없이 선택지 중심으로 바꾸기](samples/02-issue-escalation.md)
 - Day 3 — [긴 보고서를 의사결정자용 5줄로 압축하기](samples/03-executive-summary.md)
 - Day 4 — [액션아이템에서 담당·기한·완료 기준 누락 찾기](samples/04-action-item-qa.md)
+- Day 5 — [회의 직후 10문장 이내 팔로업 메일 만들기](samples/05-followup-email.md)
 <!-- campaign-index:end -->
 
 ## 상품 링크
